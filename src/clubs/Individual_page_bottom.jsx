@@ -16,10 +16,6 @@ function Individual_page_bottom({key,name,para,source_url}) {
                   <div className="cdd_down_para">
                     {para}
                   </div>
-                  {/* <div class="btn-box">
-                          <a href="#" class="btn">Participate</a>
-                          
-                  </div> */}
                 
               </div>
               </div>
