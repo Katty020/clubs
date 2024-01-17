@@ -14,7 +14,7 @@ const dance_data = [
     {
         key: 3,
         name: "Guest talk on Waste Management",
-        para: "Kritash hosted a guest talk on the topic Solid waste management,on 18th of October 2023, where Miss Nupur Tandon ( Founding Director, Pro Waste Concepts Pvt. Ltd.) was the guest speaker. She shared her knowledge and guided us through various methods through which we could reduce and manage waste properly.",
+        para: "Kritash hic Solid waste management,on 18th of October 2023, where Miss Nupur Tandon ( Founding Director, Pro Waste Concepts Pvt. Ltd.) was the guest speaker. She shared her knowledge and guided us through various methods through which we could reduce and manage waste properly.",
         source_url: "#"
     },
     {
